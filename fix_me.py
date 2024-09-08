@@ -1,9 +1,8 @@
-
 def calculate_average(nums):
     total = sum(nums)
-    count = len(nums)
-    return total / count
-
+    count = len(numbers)
+    average = total / count
 
 nums = [10, 15, 20]
-print("The average is:", calculate_average(nums))
+result = calculat_average(nums)
+Print("The average is:", result)
